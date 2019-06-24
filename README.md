@@ -34,3 +34,5 @@ Test accuracy: 84.8%
 
 
 #### I trained the model on Tesla T4 GPU and took around 11 seconds for 5 epochs.
+
+#####NOTE: Contect if you get HTTP error while downloading RSI-CB dataset
