@@ -14,9 +14,9 @@ The Tensorflow model is build using a Convolutional Neural Network(CNN), and is 
 dataset. Hence, it is able to classify images into 8 different classes. The input to the model is a ?x64x64x3 RGB-image-vector,
 and output is a ?x8 vector. Each row of the output vector corresponds to a different class.
 
-Train accuracy: 87.7%
+Train accuracy: 99.3%
 
-Test accuracy: 84.8%
+Test accuracy: 99%
 
 #### Platform: Python 3.7
 
